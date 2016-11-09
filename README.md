@@ -5,7 +5,7 @@ A collection of awesome resources for learning F#.
 
 Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
 
-Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/pavsaund/awesome-learning-fsharp/blob/master/contributing.md) and quality standard pages first. We accept proprietary and commercial software too.
+Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/pavsaund/awesome-learning-fsharp/blob/master/CONTRIBUTING.md) and quality standard pages first. We accept proprietary and commercial software too.
 
 Thanks to all [contributors](https://github.com/pavsaund/awesome-learning-fsharp/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
