@@ -15,6 +15,10 @@ Thanks to all [contributors](https://github.com/pavsaund/awesome-learning-fsharp
 ## Tutorials
 - [Functional Programming with F#](https://www.youtube.com/playlist?list=PLEoMzSkcN8oNiJ67Hd7oRGgD1d4YBxYGC) - Video Series on Youtube
 
+## Workshops
+- [Jorge Fioranelli's workshop](http://www.fsharpworkshop.com)
+- [The little MLer workshop](https://github.com/bjartwolf/kebab) Inspired by the little MLer, focused mostly on expressing yourself in types.
+
 ## Topics
 - [DDD - F# for fun and profit](https://fsharpforfunandprofit.com/ddd)
 
