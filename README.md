@@ -10,21 +10,23 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 Thanks to all [contributors](https://github.com/pavsaund/awesome-learning-fsharp/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 ## Websites
-- [F# for fun and profit](https://fsharpforfunandprofit.com)
+- [F# for fun and profit](https://fsharpforfunandprofit.com) - Introduces you to F# and shows you ways that F# can help in day-to-day development of mainstream commercial business software.
 
 ## Tutorials
-- [Functional Programming with F# - Video series](https://www.youtube.com/playlist?list=PLEoMzSkcN8oNiJ67Hd7oRGgD1d4YBxYGC)
+- [Functional Programming with F#](https://www.youtube.com/playlist?list=PLEoMzSkcN8oNiJ67Hd7oRGgD1d4YBxYGC) - Video Series on Youtube
 
 ## Topics
 - [DDD - F# for fun and profit](https://fsharpforfunandprofit.com/ddd)
 
 ## Courses
-- [F# Jumpstart - Pluralsight](https://www.pluralsight.com/courses/fsharp-jumpstart)
+- [F# Jumpstart](https://www.pluralsight.com/courses/fsharp-jumpstart) - Pluralsight. Get started with F#. Transform your experience of .NET/Mono development in less than 90 minutes.
+- [F# Fundamentals](https://app.pluralsight.com/library/courses/fsharp-fundamentals) - Pluralsight. Learn the fundamentals and the advantopices of .NET's only functional-first programming language.
 
 ## Deep Dives
 
 ## Books
 - Beginner
+  - [F# for Fun and Profit](https://www.gitbook.com/book/swlaschin/fsharpforfunandprofit/details) - eBook version of [fsharpforfunandprofit.com](http://fsharpforfunandprofit.com/)
   - [F# for C# Developers](https://www.microsoftpressstore.com/store/f-for-c-sharp-developers-9780735670266)
   - [The Book of F#: Breaking Free with Managed Functional Programming](https://www.amazon.com/Book-Breaking-Managed-Functional-Programming/dp/1593275528)
 - Expert
