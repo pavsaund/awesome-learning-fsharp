@@ -18,6 +18,7 @@ Thanks to all [contributors](https://github.com/pavsaund/awesome-learning-fsharp
 ## Workshops
 - [Jorge Fioranelli's workshop](http://www.fsharpworkshop.com)
 - [The little MLer workshop](https://github.com/bjartwolf/kebab) Inspired by the little MLer, focused mostly on expressing yourself in types.
+- [Tomas Jansson's event sourcing workshop with F#](https://github.com/mastoj/LibAAS) - introduction to event sourcing and CQRS using F#.
 
 ## Topics
 - [DDD - F# for fun and profit](https://fsharpforfunandprofit.com/ddd)
