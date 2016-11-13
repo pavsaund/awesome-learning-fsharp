@@ -1,5 +1,5 @@
 # Awesome Learning F#!
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of awesome resources for learning F#.
 
@@ -26,6 +26,7 @@ Thanks to all [contributors](https://github.com/pavsaund/awesome-learning-fsharp
 ## Courses
 - [F# Jumpstart](https://www.pluralsight.com/courses/fsharp-jumpstart) - Pluralsight. Get started with F#. Transform your experience of .NET/Mono development in less than 90 minutes.
 - [F# Fundamentals](https://app.pluralsight.com/library/courses/fsharp-fundamentals) - Pluralsight. Learn the fundamentals and the advantopices of .NET's only functional-first programming language.
+- [Introduction to F#](https://learn.decacoder.com/course/uid-01-begin-fsharp) - DecaCoder. Free course on the fundamentals of F# and functional programming with quizes and interactive coding exercises.
 
 ## Deep Dives
 
@@ -43,4 +44,3 @@ Thanks to all [contributors](https://github.com/pavsaund/awesome-learning-fsharp
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
