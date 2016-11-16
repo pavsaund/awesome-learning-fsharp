@@ -10,6 +10,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 Thanks to all [contributors](https://github.com/pavsaund/awesome-learning-fsharp/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 ## Websites
+- [Learning F#](http://fsharp.org/learn.html) - Official learning resources from the F# Software foundation.
 - [F# for fun and profit](https://fsharpforfunandprofit.com) - Introduces you to F# and shows you ways that F# can help in day-to-day development of mainstream commercial business software.
 
 ## Tutorials
