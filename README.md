@@ -36,6 +36,7 @@ Thanks to all [contributors](https://github.com/pavsaund/awesome-learning-fsharp
   - [F# for Fun and Profit](https://www.gitbook.com/book/swlaschin/fsharpforfunandprofit/details) - eBook version of [fsharpforfunandprofit.com](http://fsharpforfunandprofit.com/)
   - [F# for C# Developers](https://www.microsoftpressstore.com/store/f-for-c-sharp-developers-9780735670266)
   - [The Book of F#: Breaking Free with Managed Functional Programming](https://www.amazon.com/Book-Breaking-Managed-Functional-Programming/dp/1593275528)
+  - [F# Applied: A Practical Guide for Web Development in F# using Suave](http://products.tamizhvendan.in/fsharp-applied/)
 - Expert
   - [Expert F# 4.0](https://www.amazon.com/Expert-F-4-0-Don-Syme/dp/1484207416)
 
